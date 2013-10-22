@@ -6,10 +6,10 @@ If you would like to contribute, please email chenz@ca.ibm.com.
 ##Dependencies
 Install [IBM Integration Bus Developer Edition](http://www.ibm.com/software/products/us/en/integration-bus/).
 
-To avoid having to manually import the projects into the Integration Toolkit, install the EGit client. A specific version of the client is needed, see [additional instructions](sample/readme.md).
+To avoid having to manually import the projects into the Integration Toolkit, install the EGit client. A specific version of the client is needed, see [additional instructions](INSTRUCTIONS.MD).
 
 ##Setup
-1. Clone the Git repositories and import the projects (see [additional instructions](instructions.md) if you need more detailed instructions):
+1. Clone the Git repositories and import the projects (see [additional instructions](INSTRUCTIONS.MD) if you need more detailed instructions):
   * Clone and import this repository (URI: git://OpenTechnologiesForIntegration.github.com/?.git).
  
 2. Launch or Debug an Eclipse Application via Run | Run (or Debug) Configurations, and choose Eclipse Application.
